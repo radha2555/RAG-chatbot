@@ -1,5 +1,5 @@
 
-###*RAG Chatbot with LangChain + Groq + Gradio*
+##*RAG Chatbot with LangChain + Groq + Gradio*
 
 ```
 # 🤖 Smart RAG Chatbot – Powered by Groq + LangChain
